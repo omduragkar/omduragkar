@@ -51,7 +51,7 @@ One of my most impactful projects, where I worked closely with **25+ restaurants
 
 I'm always happy to connect with fellow developers, exchange ideas, and explore opportunities to collaborate.
 
-- 💼 LinkedIn: linkedin.com/in/omaduragkar
+- 💼 LinkedIn: https://linkedin.com/in/omaduragkar
 - 📧 Email: omaduragkar@gmail.com
 - 🐙 GitHub: @omduragkar
 
