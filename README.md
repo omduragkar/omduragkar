@@ -1,13 +1,58 @@
-- 👋 Hi, I’m @omduragkar
-- 👀 I’m currently an SWE at Uber
-- 📫 I have total of 3+ years of Industry experience in Software Development Field ta various orgs like Swiggy, CRED and Loop AI prior to joining Uber.
-- 👀 Already Have huge work done in JavaScript, React.js, Nextjs, Express, Node, AWS, MongoDB
-- 🌱 Connect with me about tech, Startup, Coding.
-- 🌱 I'm Comp Science graduate from Government Enginnering College, Aurangabad
-- 📫 You can connect with me via linkedin with profile https://www.linkedin.com/in/omaduragkar/ or via mail at omaduragkar@gmail.com
--  I’m looking to collaborate on Open Source Projects
-- You can look at my one of the best project https://etopos.vercel.app where I have almost worked with 25+ restaurants and have registered 50,000+ orders on the app yet!
-<!---
-omduragkar/omduragkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey there, I'm Om Duragkar\! 👋
+
+👨‍💻 **Software Engineer at Uber | Full-Stack Developer | Open Source Enthusiast**
+
+I'm a Software Engineer at **Uber** with 3+ years of industry experience building software products across companies like **Swiggy, CRED, and Loop AI**.
+
+I enjoy solving challenging engineering problems, building scalable applications, and turning ideas into impactful products. I'm passionate about technology, startups, and collaborating with developers on exciting projects.
+
+### 🚀 About Me
+
+- 💼 Currently working as a **Software Engineer at Uber**.
+- 🛠️ Experienced in building web applications using **JavaScript, React.js, Next.js, Node.js, and Express.js**.
+- ☁️ Hands-on experience with **AWS, MongoDB**, and full-stack development.
+- 🎓 Computer Science graduate from **Government Engineering College, Aurangabad**.
+- 🤝 Open to collaborating on **open-source projects** and innovative ideas.
+- 💬 Happy to connect and discuss technology, startups, software engineering, and coding.
+
+### 🏆 Featured Project
+
+#### Etopos
+
+One of my most impactful projects, where I worked closely with **25+ restaurants** and helped build a platform that processed **50,000+ orders**.
+
+- 🍽️ Collaborated with restaurants to build and improve the product.
+- 📈 Helped deliver a solution that served real businesses and customers at scale.
+- 💻 Gained valuable experience building and maintaining a production application.
+
+> **Note:** Etopos was scheduled to sunset in January 2026.
+
+### 🧰 Tech Stack
+
+**Languages & Frontend**
+
+- JavaScript
+- React.js
+- Next.js
+- HTML & CSS
+
+**Backend & Databases**
+
+- Node.js
+- Express.js
+- MongoDB
+
+**Cloud & Tools**
+
+- AWS
+- Git & GitHub
+
+### 🤝 Let's Connect\!
+
+I'm always happy to connect with fellow developers, exchange ideas, and explore opportunities to collaborate.
+
+- 💼 LinkedIn: linkedin.com/in/omaduragkar
+- 📧 Email: omaduragkar@gmail.com
+- 🐙 GitHub: @omduragkar
+
+**Let's build something impactful together\! 🚀**
