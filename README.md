@@ -41,6 +41,8 @@ One of my most impactful projects, where I worked closely with **25+ restaurants
 - Node.js
 - Express.js
 - MongoDB
+- golang
+- JAVA
 
 **Cloud & Tools**
 
@@ -53,6 +55,6 @@ I'm always happy to connect with fellow developers, exchange ideas, and explore 
 
 - 💼 LinkedIn: https://linkedin.com/in/omaduragkar
 - 📧 Email: omaduragkar@gmail.com
-- 🐙 GitHub: @omduragkar
+- 🐙 GitHub: https://github.com/omduragkar
 
 **Let's build something impactful together\! 🚀**
